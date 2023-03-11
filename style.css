@@ -1,0 +1,14 @@
+ol{
+    list-style-type: lower-roman;
+    display: -moz-inline-box;
+    list-style-position: inside;
+    width: 120px;
+}
+ul{
+    list-style-image:  url("images/star.png");
+list-style: inside circle;
+width: 120px;
+}
+li{
+    margin: 10px;
+}
